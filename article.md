@@ -9,9 +9,9 @@ libraries: [] #jquery, d3, d3v5, d3csv, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
 
-Včera začal v Kalifornii [konference WWDC](https://developer.apple.com/wwdc/). Na jedné z klíčových akcí pro „lidi od počítačů“ letos firma Apple nepředstavuje nové MacBooky ani iPady. Hlavní novinkou [má být](https://www.bloomberg.com/news/articles/2018-05-31/apple-to-tout-digital-health-ar-features-at-software-conference) funkce operačního systému iOS, která majitelům iPhonů pomůže, aby je používali o něco méně, zato uvědoměle.
+V pondělí začal v Kalifornii [konference WWDC](https://developer.apple.com/wwdc/). Na jedné z klíčových akcí pro „lidi od počítačů“ letos firma Apple nepředstavuje nové MacBooky ani iPady. Hlavní novinkou [má být](https://www.bloomberg.com/news/articles/2018-05-31/apple-to-tout-digital-health-ar-features-at-software-conference) funkce operačního systému iOS, která majitelům iPhonů pomůže, aby je používali o něco méně, zato uvědoměle.
 
-Konkurenční Android [představil něco podobného před měsícem](https://www.androidauthority.com/android-dashboard-863014/). Telefon dlouhodobě sleduje, jak často, jak dlouho a co s ním majitel dělá. Pokud jej přehledně zobrazená informace o promarněném času sama o sobě nepřiměje ke změně chování, mobil člověku ve vhodnou chvíli sám doporučí, aby ho už odložil. Uživatel si také může nastavit, kolik minut denně chce strávit s jednotlivými aplikacemi a jakmile tento čas vyprší, jejich ikonky na displeji zešednou, aby tolik nelákaly ke klikání.
+Konkurenční Android [představil něco podobného před měsícem](https://www.irozhlas.cz/veda-technologie/technologie/socialni-site-instagram-google-zavislost-mobilni-telefony-internet_1805181855_dp). Telefon dlouhodobě sleduje, jak často, jak dlouho a co s ním majitel dělá. Pokud jej přehledně zobrazená informace o promarněném času sama o sobě nepřiměje ke změně chování, mobil člověku ve vhodnou chvíli sám doporučí, aby ho už odložil. Uživatel si také může nastavit, kolik minut denně chce strávit s jednotlivými aplikacemi a jakmile tento čas vyprší, jejich ikonky na displeji zešednou, aby tolik nelákaly ke klikání.
 
 <right>
   <a href="http://wave.cz/detox"><h3>Dejte si Digitální detox</h3></a>
@@ -25,7 +25,7 @@ Novinky jsou reakcí na [sílící hlasy](https://www.bloomberg.com/news/article
 
 Principy, které návrháři aplikací využívají, jsou podle něj podobné těm, s nimiž pracují různí iluzionisté a eskamotéři. „Kouzelníci hledají slepé skvrny, okraje, slabá místa a hranice lidského vnímání. Působí tak na diváky, aniž by si to oni sami vůbec uvědomili. [...] A přesně totéž dělají návrháři [digitálních] produktů. V boji o vaši pozornost proti vám vědomě i nevědomě využívají vaše slabá místa.“
 
-Toto je deset triků, jimiž právě podle Tristana Harrise, kterého časopis Atlantic označil za „svědomí Silicon Valley, pokud vůbec nějaké má“, výrobci technologií na váš mozek.
+Toto je deset triků, jimiž právě podle Tristana Harrise, kterého časopis Atlantic označil za „svědomí Silicon Valley, pokud vůbec nějaké má“, výrobci technologií útočí na váš mozek.
 
 ### 1. Iluze svobodné volby
 
